@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Haifa</string>
+    <string name="hint_number">Enter your number phone</string>
+    <string name="btn_viri">Send message</string>
+    <string name="hint_fname">First name</string>
+    <string name="hintlname">Last name</string>
+    <string name="radio_m">Male</string>
+    <string name="radio_f">Female</string>
+
+
+</resources>

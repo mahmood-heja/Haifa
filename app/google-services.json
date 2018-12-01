@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "985833531467",
+    "firebase_url": "https://haifa-6669e.firebaseio.com",
+    "project_id": "haifa-6669e",
+    "storage_bucket": "haifa-6669e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985833531467:android:2f1fee8f2719cdf6",
+        "android_client_info": {
+          "package_name": "com.example.adellahlouh.haifa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985833531467-et75ab2146t3h0d9u1oea3sk2eddrj2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adellahlouh.haifa",
+            "certificate_hash": "b38682cbcd3ccbefa8c97b27eabc3fde6c0b0c7f"
+          }
+        },
+        {
+          "client_id": "985833531467-hk5rcl1sj71gaptqksolb111q32gmuqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adellahlouh.haifa",
+            "certificate_hash": "2ae8ed0d19d79438de2c23033aada8d2c5136200"
+          }
+        },
+        {
+          "client_id": "985833531467-mdl59b2u1dseev4ihifk6v7fl971n7ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe7Sz7IoP3o0wPBojeMXDUScwYbyA1SsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985833531467-mdl59b2u1dseev4ihifk6v7fl971n7ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
